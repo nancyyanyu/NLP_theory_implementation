@@ -1,4 +1,4 @@
-# Natural Language Processing Models Theory & Implementation
+# NLP Theory & Implementation
 This repo contains my study notes and Python implementation of NLP models
 
 ## Folder Structure
@@ -9,7 +9,7 @@ This repo contains my study notes and Python implementation of NLP models
 ├── notebooks                     # Python implementation of NLP models
 └── README.md
 ```
-(Note: to view the math equations in markdown files, download the repo, and view the files in other editors that support *mathjax*.)
+(Note: for the math equations in markdown files, download the repo, and view the files in other editors that support *mathjax*.)
 
 
 ## Content
@@ -33,7 +33,13 @@ This repo contains my study notes and Python implementation of NLP models
   - [Note](https://github.com/nancyyanyu/NLP_theory_implementation/blob/main/markdown/11.Memory%20Network.md)
   - [Q&A with Memory Network](https://github.com/nancyyanyu/NLP_theory_implementation/blob/main/notebooks/13.Memory%20Network.ipynb)
 
-## Roadmap
+## TODO
+
+- [x] Complete Deep Learning: Advanced NLP and RNNs 
+- [ ] Complete Natural Language Processing with Deep Learning in Python
+- [ ] More implementations
+
+
 
 ## Contact
 Nancy Yan - yy2799@columbia.edu 
